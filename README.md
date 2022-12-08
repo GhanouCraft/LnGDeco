@@ -1,9 +1,5 @@
 # LnGDeco
+Welcome to LnG Deco repository. Please check the **English** file in order to translate to your selected language.
 
-Welcome to LnG Deco ! A Minecraft mod aiming to improve the look of all Minecraft Vanilla structures by adding new blocks and decorations, while keeping the same vibes as Vanilla.
-
-## Credits
-**Ghanou Craft** *(Owner)*
-
-## Assets
-All assets used are either from MC itself or created by me, Ghanou Craft.
+For language codes, check this link :
+https://minecraft.fandom.com/wiki/Language#Languages
